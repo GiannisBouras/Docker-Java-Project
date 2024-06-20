@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS passwords (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    password VARCHAR(255) NOT NULL
+);
+
+INSERT INTO passwords (password) VALUES ('1234');
+
