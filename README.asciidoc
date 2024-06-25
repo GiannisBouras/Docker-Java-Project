@@ -1,9 +1,9 @@
 = PortScan_Linux
  
 == Explanation 
-=== Participants: Christos Vasileiou 19390032
-              Ioannis  Bouras    19390160
-=== Description : This application is designed to run Scans to the ports
+=== Participants: Christos Vasileiou 19390032 Ioannis  Bouras    19390160
+=== Description : 
+This application is designed to run Scans to the ports
 of your network. It uses nmap in order to execute those scans. At first 
 you will need to open the application with a password. 
 The password is "1234" or "1111"!
