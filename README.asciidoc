@@ -25,5 +25,4 @@ In order the application to run you need to have JDK 19 , HyperX11 for the
 GUI in the docker , Docker app etc for the containers. 
 You press the install.sh for the sql docker to start, to build the Java 
 application container and run the Java Container.  
-  
-
+ 
