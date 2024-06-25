@@ -26,5 +26,4 @@ GUI in the docker , Docker app etc for the containers.
 You press the install.sh for the sql docker to start, to build the Java 
 application container and run the Java Container.  
   
-app is served with nginx server. These apps
-are running inside #Docker containers# of course.
+
